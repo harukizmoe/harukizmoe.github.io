@@ -18,7 +18,7 @@ A cozy, Animal Crossing-themed personal website built with **Astro**, **Tailwind
 ### Prerequisites
 
 - [Node.js](https://nodejs.org/) 18+
-- [pnpm](https://pnpm.io/)
+- [Bun](https://bun.sh/)
 
 ### Setup
 
@@ -28,10 +28,10 @@ git clone https://github.com/yunxinz/ac-site-template.git
 cd ac-site-template
 
 # Install dependencies
-pnpm install
+bun install
 
 # Start dev server
-pnpm dev
+bun dev
 ```
 
 Open `http://localhost:4321` in your browser.
